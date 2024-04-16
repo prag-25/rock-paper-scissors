@@ -1,6 +1,5 @@
 import random
 
-#function variable
 def get_choices():
     player_choice = input("Enter a choice (rock, paper, scissors): ")
     options = ["rock", "paper", "sicssors"]
